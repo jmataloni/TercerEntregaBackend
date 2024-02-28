@@ -1,0 +1,92 @@
+[
+    {
+        "code": "1",
+        "title": "Producto 1",
+        "description": "Descripción del Producto 1",
+        "price": 19.99,
+        "thumbnail": "Producto_1.jpg",
+        "stock": 50,
+        "id": 1
+    },
+    {
+        "code": "2",
+        "title": "Producto 2",
+        "description": "Descripción del Producto 2",
+        "price": 29.99,
+        "thumbnail": "Producto_2.jpg",
+        "stock": 30,
+        "id": 2
+    },
+    {
+        "code": "3",
+        "title": "Producto 3",
+        "description": "Descripción del Producto 3",
+        "price": 39.99,
+        "thumbnail": "Producto_3.jpg",
+        "stock": 20,
+        "id": 3
+    },
+    {
+        "code": "4",
+        "title": "Producto 4",
+        "description": "Descripción del Producto 4",
+        "price": 49.99,
+        "thumbnail": "Producto_4.jpg",
+        "stock": 15,
+        "id": 4
+    },
+    {
+        "code": "5",
+        "title": "Producto 5",
+        "description": "Descripción del Producto 5",
+        "price": 59.99,
+        "thumbnail": "Producto_5.jpg",
+        "stock": 25,
+        "id": 5
+    },
+    {
+        "code": "6",
+        "title": "Producto 6",
+        "description": "Descripción del Producto 6",
+        "price": 69.99,
+        "thumbnail": "Producto_6.jpg",
+        "stock": 40,
+        "id": 6
+    },
+    {
+        "code": "7",
+        "title": "Producto 7",
+        "description": "Descripción del Producto 7",
+        "price": 79.99,
+        "thumbnail": "Producto_7.jpg",
+        "stock": 10,
+        "id": 7
+    },
+    {
+        "code": "8",
+        "title": "Producto 8",
+        "description": "Descripción del Producto 8",
+        "price": 89.99,
+        "thumbnail": "Producto_8.jpg",
+        "stock": 30,
+        "id": 8
+    },
+    {
+        "code": "9",
+        "title": "Producto 9",
+        "description": "Descripción del Producto 9",
+        "price": 99.99,
+        "thumbnail": "Producto_9.jpg",
+        "stock": 20,
+        "id": 9
+    },
+    {
+        "code": "10",
+        "title": "Producto 10",
+        "description": "Descripción del Producto 10",
+        "price": 109.99,
+        "thumbnail": "Producto_10.jpg",
+        "stock": 15,
+        "id": 10
+    }
+]
